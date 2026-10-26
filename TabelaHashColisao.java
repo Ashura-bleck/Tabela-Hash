@@ -1,5 +1,7 @@
 import java.util.Random;
 
+import tabelaHash.No;
+
 class No {
     int valor;
     No proximo;
